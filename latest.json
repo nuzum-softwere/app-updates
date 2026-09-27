@@ -2,9 +2,9 @@
   "pharmacist": {},
   "pharmacist_lite": {
     "windows": {
-      "version": 1,
-      "notes": "تحميل اسرع للمخزون\nظهور اشعارات للاسعار المحدثه\nظهور اشعارات اذا كانت هناك نسخ محدثه",
-      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist_lite-windows-v1/pharmacist_lite.exe",
+      "version": 2,
+      "notes": "تحميل المخزون بسرعه \nظهور اشعارات عند التحديث",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist_lite-windows-v2/pharmacist_lite.exe",
       "fileName": "pharmacist_lite.exe"
     }
   }
