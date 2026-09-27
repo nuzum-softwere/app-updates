@@ -1,1 +1,11 @@
-{"pharmacist": {}, "pharmacist_lite": {}}
+{
+  "pharmacist": {},
+  "pharmacist_lite": {
+    "windows": {
+      "version": 1,
+      "notes": "تحميل اسرع للمخزون\nظهور اشعارات للاسعار المحدثه\nظهور اشعارات اذا كانت هناك نسخ محدثه",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist_lite-windows-v1/pharmacist_lite.exe",
+      "fileName": "pharmacist_lite.exe"
+    }
+  }
+}
