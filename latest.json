@@ -19,6 +19,12 @@
       "notes": "تحديثات تلقائيه \nتصنيف المخزون",
       "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist_lite-windows-v5/pharmacist_lite.exe",
       "fileName": "pharmacist_lite.exe"
+    },
+    "mobile": {
+      "version": 1,
+      "notes": "تحديث تلقائي لاسعار الادويه",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist_lite-mobile-v1/pharmacist.lite.apk",
+      "fileName": "pharmacist lite.apk"
     }
   }
 }
