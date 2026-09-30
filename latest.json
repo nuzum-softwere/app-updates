@@ -5,6 +5,12 @@
       "notes": "تحديث تلقائي لاسعار الادويه\nتحديث تلقائي لنسخة البرنامج\nتحميل اسرع للمخزون",
       "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist-windows-v1/pharmacist.exe",
       "fileName": "pharmacist.exe"
+    },
+    "mobile": {
+      "version": 1,
+      "notes": "تحديثات تلقائيه للاسعار",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist-mobile-v1/pharmacist.apk",
+      "fileName": "pharmacist.apk"
     }
   },
   "pharmacist_lite": {
