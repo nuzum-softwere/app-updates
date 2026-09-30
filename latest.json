@@ -2,9 +2,9 @@
   "pharmacist": {},
   "pharmacist_lite": {
     "windows": {
-      "version": 4,
-      "notes": "تحديث تلقائي",
-      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist_lite-windows-v4/pharmacist_lite.exe",
+      "version": 5,
+      "notes": "تحديثات تلقائيه \nتصنيف المخزون",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist_lite-windows-v5/pharmacist_lite.exe",
       "fileName": "pharmacist_lite.exe"
     }
   }
