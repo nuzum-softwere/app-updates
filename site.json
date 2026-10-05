@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-05T18:11:36.141184Z",
+  "updatedAt": "2026-10-05T18:50:35.170158Z",
   "mediaBase": "https://raw.githubusercontent.com/nuzum-softwere/app-updates/main/",
   "contact": {
     "brand": "nuzum",
@@ -297,9 +297,9 @@
       "featured": true,
       "order": 110,
       "name": "my_store",
-      "nameAr": "متجر الأزياء",
-      "taglineAr": "نظام إدارة محل الأزياء: المقاسات والألوان، العملاء والديون وتقارير الأرباح.",
-      "descAr": "نظام إدارة محل الأزياء: المقاسات والألوان، العملاء والديون وتقارير الأرباح.",
+      "nameAr": "مصنعي",
+      "taglineAr": "نظام إدارة محلات المنظفات : تصنيع - مبيعات - مشتريات - عملاء - موردين - تقارير",
+      "descAr": "نظام إدارة محلات المنظفات : تصنيع - مبيعات - مشتريات - عملاء - موردين - تقارير",
       "category": "shop",
       "public": true,
       "platforms": [
