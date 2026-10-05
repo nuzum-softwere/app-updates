@@ -1,0 +1,292 @@
+{
+  "schema": 1,
+  "updatedAt": "2026-10-05T18:03:44.550142Z",
+  "mediaBase": "https://raw.githubusercontent.com/nuzum-softwere/app-updates/main/",
+  "contact": {
+    "brand": "nuzum",
+    "brandAr": "نزوم",
+    "whatsappDisplay": "01065839183",
+    "whatsappUrl": "https://wa.me/201065839183",
+    "email": "nuzum.app@gmail.com",
+    "emailUrl": "mailto:nuzum.app@gmail.com",
+    "social": [
+      {
+        "id": "whatsapp",
+        "label": "واتساب",
+        "labelEn": "WhatsApp",
+        "url": "https://wa.me/201065839183"
+      },
+      {
+        "id": "email",
+        "label": "البريد الإلكتروني",
+        "labelEn": "Email",
+        "url": "mailto:nuzum.app@gmail.com"
+      },
+      {
+        "id": "github-org",
+        "label": "GitHub — nuzum-softwere",
+        "labelEn": "GitHub — nuzum-softwere",
+        "url": "https://github.com/nuzum-softwere"
+      },
+      {
+        "id": "github-user",
+        "label": "GitHub — aabhady",
+        "labelEn": "GitHub — aabhady",
+        "url": "https://github.com/aabhady"
+      },
+      {
+        "id": "site",
+        "label": "موقع Pharmacy",
+        "labelEn": "Pharmacy site",
+        "url": "https://pharmacist-eg.pages.dev"
+      }
+    ]
+  },
+  "categories": [
+    {
+      "id": "all",
+      "label": "الكل",
+      "labelEn": "All"
+    },
+    {
+      "id": "enterprise",
+      "label": "أنظمة الشركات",
+      "labelEn": "Enterprise"
+    },
+    {
+      "id": "pharmacy",
+      "label": "الصيدليات",
+      "labelEn": "Pharmacy"
+    },
+    {
+      "id": "shop",
+      "label": "إدارة المحلات",
+      "labelEn": "Retail"
+    },
+    {
+      "id": "projects",
+      "label": "المشاريع والتشييد",
+      "labelEn": "Projects"
+    }
+  ],
+  "platforms": {
+    "windows": "ويندوز",
+    "mobile": "أندرويد",
+    "web": "ويب",
+    "linux": "لينكس",
+    "macos": "ماك"
+  },
+  "apps": [
+    {
+      "key": "dabchem",
+      "enabled": true,
+      "featured": true,
+      "order": 10,
+      "name": "Dabchem",
+      "nameAr": "دابكم",
+      "taglineAr": "نظام إدارة مصنع الكيماويات: الخلطات، موديولات الإنتاج، المخزون والصلاحيات.",
+      "descAr": "نظام إدارة مصنع الكيماويات: الخلطات، موديولات الإنتاج، المخزون والصلاحيات.",
+      "category": "enterprise",
+      "public": false,
+      "platforms": [
+        "windows",
+        "mobile"
+      ],
+      "icon": "assets/img/apps/dabchem.png"
+    },
+    {
+      "key": "m_and_a",
+      "enabled": true,
+      "featured": true,
+      "order": 20,
+      "name": "M&A",
+      "nameAr": "إم آند إيه",
+      "taglineAr": "نظام إدارة المصانع: العملاء، الفواتير، المخزون، المصروفات والصلاحيات.",
+      "descAr": "نظام إدارة المصانع: العملاء، الفواتير، المخزون، المصروفات والصلاحيات.",
+      "category": "enterprise",
+      "public": false,
+      "platforms": [
+        "windows",
+        "mobile"
+      ],
+      "icon": "assets/img/apps/m_and_a.png"
+    },
+    {
+      "key": "rauvan",
+      "enabled": true,
+      "featured": true,
+      "order": 30,
+      "name": "Rauvan",
+      "nameAr": "روفان",
+      "taglineAr": "أنظمة مصانع العطور: وصفات الخلطات الصوتية، الإنتاج، CRM والصلاحيات.",
+      "descAr": "أنظمة مصانع العطور: وصفات الخلطات الصوتية، الإنتاج، CRM والصلاحيات.",
+      "category": "enterprise",
+      "public": false,
+      "platforms": [
+        "windows",
+        "mobile"
+      ],
+      "icon": "assets/img/apps/rauvan.png"
+    },
+    {
+      "key": "amr_sheref_group",
+      "enabled": true,
+      "featured": true,
+      "order": 40,
+      "name": "AMR Sherif Group",
+      "nameAr": "عمرو شريف جروب",
+      "taglineAr": "نظام إدارة المجموعات التجارية: العملاء، التوريدات، الخزنة والموظفون.",
+      "descAr": "نظام إدارة المجموعات التجارية: العملاء، التوريدات، الخزنة والموظفون.",
+      "category": "enterprise",
+      "public": false,
+      "platforms": [
+        "windows",
+        "mobile"
+      ],
+      "icon": "assets/img/apps/amr_sheref_group.png"
+    },
+    {
+      "key": "pharmacist",
+      "enabled": true,
+      "featured": true,
+      "order": 50,
+      "name": "Pharmacist",
+      "nameAr": "صيدلي",
+      "taglineAr": "نظام إدارة الصيدليات: الفواتير، المخزون، الأسعار المحدّثة وتقارير مالية.",
+      "descAr": "نظام إدارة الصيدليات: الفواتير، المخزون، الأسعار المحدّثة وتقارير مالية.",
+      "category": "pharmacy",
+      "public": true,
+      "platforms": [
+        "windows",
+        "mobile"
+      ],
+      "repo": "https://github.com/aabhady/pharmacist",
+      "icon": "assets/img/apps/pharmacist.png"
+    },
+    {
+      "key": "pharmacist_lite",
+      "enabled": true,
+      "featured": true,
+      "order": 60,
+      "name": "Pharmacist Lite",
+      "nameAr": "صيدلي لايت",
+      "taglineAr": "نسخة خفيفة وسريعة من نظام الصيدلية، مثالية للأجهزة الضعيفة والموبايل.",
+      "descAr": "نسخة خفيفة وسريعة من نظام الصيدلية، مثالية للأجهزة الضعيفة والموبايل.",
+      "category": "pharmacy",
+      "public": true,
+      "platforms": [
+        "windows",
+        "mobile"
+      ],
+      "repo": "https://github.com/aabhady/pharmacist_lite",
+      "icon": "assets/img/apps/pharmacist_lite.png"
+    },
+    {
+      "key": "agromaster",
+      "enabled": true,
+      "featured": true,
+      "order": 70,
+      "name": "AgroMaster",
+      "nameAr": "أجرو ماستر",
+      "taglineAr": "نظام إدارة محل المبيدات: الأصناف، الفواتير، العملاء والخزنة.",
+      "descAr": "نظام إدارة محل المبيدات: الأصناف، الفواتير، العملاء والخزنة.",
+      "category": "shop",
+      "public": true,
+      "platforms": [
+        "windows",
+        "mobile"
+      ],
+      "repo": "https://github.com/aabhady/agromaster",
+      "icon": "assets/img/apps/agromaster.png"
+    },
+    {
+      "key": "contractor",
+      "enabled": true,
+      "featured": true,
+      "order": 80,
+      "name": "Contracting System",
+      "nameAr": "نظام إدارة المقاولات",
+      "taglineAr": "إدارة مشاريع البناء والتشييد: المشاريع، العمال، المستخلصات والتقارير.",
+      "descAr": "إدارة مشاريع البناء والتشييد: المشاريع، العمال، المستخلصات والتقارير.",
+      "category": "projects",
+      "public": true,
+      "platforms": [
+        "windows",
+        "mobile"
+      ],
+      "repo": "https://github.com/aabhady/contractor",
+      "icon": "assets/img/apps/contractor.png"
+    },
+    {
+      "key": "electrofy",
+      "enabled": true,
+      "featured": true,
+      "order": 90,
+      "name": "Electrofy",
+      "nameAr": "إليكتروفاي",
+      "taglineAr": "نظام إدارة محل الموبايلات والإكسسوارات مع نظام التقسيط والتقارير.",
+      "descAr": "نظام إدارة محل الموبايلات والإكسسوارات مع نظام التقسيط والتقارير.",
+      "category": "shop",
+      "public": true,
+      "platforms": [
+        "windows",
+        "mobile"
+      ],
+      "repo": "https://github.com/aabhady/electrofy",
+      "icon": "assets/img/apps/electrofy.png"
+    },
+    {
+      "key": "electronics",
+      "enabled": true,
+      "featured": true,
+      "order": 100,
+      "name": "Electronics",
+      "nameAr": "إلكترونيك ستور",
+      "taglineAr": "نظام إدارة محل الأجهزة الكهربائية: المخزون، التقسيط والتقارير المالية.",
+      "descAr": "نظام إدارة محل الأجهزة الكهربائية: المخزون، التقسيط والتقارير المالية.",
+      "category": "shop",
+      "public": true,
+      "platforms": [
+        "windows",
+        "mobile"
+      ],
+      "repo": "https://github.com/aabhady/electronics",
+      "icon": "assets/img/apps/electronics.png"
+    },
+    {
+      "key": "my_store",
+      "enabled": true,
+      "featured": true,
+      "order": 110,
+      "name": "my_store",
+      "nameAr": "متجر الأزياء",
+      "taglineAr": "نظام إدارة محل الأزياء: المقاسات والألوان، العملاء والديون وتقارير الأرباح.",
+      "descAr": "نظام إدارة محل الأزياء: المقاسات والألوان، العملاء والديون وتقارير الأرباح.",
+      "category": "shop",
+      "public": true,
+      "platforms": [
+        "windows",
+        "mobile"
+      ],
+      "icon": "assets/img/apps/my_store.png"
+    },
+    {
+      "key": "printify",
+      "enabled": true,
+      "featured": true,
+      "order": 120,
+      "name": "Printify",
+      "nameAr": "برينتي فاي",
+      "taglineAr": "نظام إدارة المطابع: الفواتير، العملاء والديون، تقارير مطبوعة ونسخ احتياطي.",
+      "descAr": "نظام إدارة المطابع: الفواتير، العملاء والديون، تقارير مطبوعة ونسخ احتياطي.",
+      "category": "shop",
+      "public": true,
+      "platforms": [
+        "windows",
+        "mobile"
+      ],
+      "repo": "https://github.com/aabhady/printify",
+      "icon": "assets/img/apps/printify.png"
+    }
+  ]
+}
