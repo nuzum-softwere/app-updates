@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-05T18:50:35.170158Z",
+  "updatedAt": "2026-10-08T21:25:39.265528Z",
   "mediaBase": "https://raw.githubusercontent.com/nuzum-softwere/app-updates/main/",
   "contact": {
     "brand": "nuzum",
@@ -122,12 +122,13 @@
         ],
         "screenshots": [
           {
-            "path": "media/dabchem/2026-10-05_204604_2.png",
-            "caption": "dashboard"
+            "path": "media/dabchem/admin_dashboard_windows_mobile.png"
           },
           {
-            "path": "media/dabchem/2026-10-05_204504_2.png",
-            "caption": "splash"
+            "path": "media/dabchem/treasury_windows_mobile.png"
+          },
+          {
+            "path": "media/dabchem/sales_report_windows_mobile.png"
           }
         ]
       }
