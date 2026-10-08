@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-08T22:24:42.945506Z",
+  "updatedAt": "2026-10-08T22:33:05.779133Z",
   "mediaBase": "https://raw.githubusercontent.com/nuzum-softwere/app-updates/main/",
   "contact": {
     "brand": "nuzum",
@@ -120,7 +120,17 @@
             "body": "تتيح هذه الميزة تسجيل جميع التركيبات والخلطات الخاصة بالمصنع مع تحديد نسب المواد الخام المستخدمة في كل منتج.\n\nالمميزات:\n\nحفظ عدد غير محدود من الخلطات.\nتحديد المواد الخام والكميات المطلوبة لكل منتج.\nحساب التكلفة الفعلية للخلطة تلقائياً.\nتتبع التعديلات على التركيبات.\nمعرفة تكلفة الإنتاج المتوقعة قبل التشغيل.\n\nالفائدة:\nتقليل الأخطاء في الإنتاج وضمان ثبات جودة المنتج."
           }
         ],
-        "screenshots": []
+        "screenshots": [
+          {
+            "path": "media/dabchem/admin_dashboard_windows_mobile_2.png"
+          },
+          {
+            "path": "media/dabchem/treasury_windows_mobile_2.png"
+          },
+          {
+            "path": "media/dabchem/sales_report_windows_mobile_2.png"
+          }
+        ]
       }
     },
     {
