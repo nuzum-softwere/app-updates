@@ -40,5 +40,13 @@
       "url": "https://github.com/nuzum-softwere/app-updates/releases/download/electronics-windows-v1/electronics.exe",
       "fileName": "electronics.exe"
     }
+  },
+  "agromaster": {
+    "windows": {
+      "version": 1,
+      "notes": "agromaster v1.0",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/agromaster-windows-v1/agromaster.exe",
+      "fileName": "agromaster.exe"
+    }
   }
 }
