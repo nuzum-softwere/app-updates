@@ -47,6 +47,12 @@
       "notes": "agromaster v1.0",
       "url": "https://github.com/nuzum-softwere/app-updates/releases/download/agromaster-windows-v1/agromaster.exe",
       "fileName": "agromaster.exe"
+    },
+    "mobile": {
+      "version": 1,
+      "notes": "agromaster v1.0",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/agromaster-mobile-v1/agromaster.apk",
+      "fileName": "agromaster.apk"
     }
   }
 }
