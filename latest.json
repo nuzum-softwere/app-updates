@@ -61,6 +61,12 @@
       "notes": "phonix v1.0",
       "url": "https://github.com/nuzum-softwere/app-updates/releases/download/phonix-windows-v2/phonix.exe",
       "fileName": "phonix.exe"
+    },
+    "mobile": {
+      "version": 1,
+      "notes": "phonix- mobile",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/phonix-mobile-v1/phonix.apk",
+      "fileName": "phonix.apk"
     }
   }
 }
