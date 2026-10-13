@@ -57,9 +57,9 @@
   },
   "phonix": {
     "windows": {
-      "version": 1,
+      "version": 2,
       "notes": "phonix v1.0",
-      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/phonix-windows-v1/phonix.exe",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/phonix-windows-v2/phonix.exe",
       "fileName": "phonix.exe"
     }
   }
