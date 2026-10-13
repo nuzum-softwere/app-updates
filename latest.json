@@ -54,5 +54,13 @@
       "url": "https://github.com/nuzum-softwere/app-updates/releases/download/agromaster-mobile-v1/agromaster.apk",
       "fileName": "agromaster.apk"
     }
+  },
+  "phonix": {
+    "windows": {
+      "version": 1,
+      "notes": "phonix v1.0",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/phonix-windows-v1/phonix.exe",
+      "fileName": "phonix.exe"
+    }
   }
 }
