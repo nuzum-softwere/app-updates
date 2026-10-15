@@ -7,9 +7,9 @@
       "fileName": "pharmacist.exe"
     },
     "mobile": {
-      "version": 1,
-      "notes": "تحديثات تلقائيه للاسعار",
-      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist-mobile-v1/pharmacist.apk",
+      "version": 2,
+      "notes": "",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist-mobile-v2/pharmacist.apk",
       "fileName": "pharmacist.apk"
     }
   },
