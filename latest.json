@@ -15,15 +15,15 @@
   },
   "pharmacist_lite": {
     "windows": {
-      "version": 5,
-      "notes": "تحديثات تلقائيه \nتصنيف المخزون",
-      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist_lite-windows-v5/pharmacist_lite.exe",
+      "version": 6,
+      "notes": "",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist_lite-windows-v6/pharmacist_lite.exe",
       "fileName": "pharmacist_lite.exe"
     },
     "mobile": {
-      "version": 2,
-      "notes": "",
-      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist_lite-mobile-v2/pharmacist.lite.apk",
+      "version": 1,
+      "notes": "تحديث تلقائي للاسعار",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist_lite-mobile-v1/pharmacist.lite.apk",
       "fileName": "pharmacist lite.apk"
     }
   },
