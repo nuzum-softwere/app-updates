@@ -1,9 +1,9 @@
 {
   "pharmacist": {
     "windows": {
-      "version": 1,
-      "notes": "تحديث تلقائي لاسعار الادويه\nتحديث تلقائي لنسخة البرنامج\nتحميل اسرع للمخزون",
-      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist-windows-v1/pharmacist.exe",
+      "version": 2,
+      "notes": "",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist-windows-v2/pharmacist.exe",
       "fileName": "pharmacist.exe"
     },
     "mobile": {
