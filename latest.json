@@ -21,9 +21,9 @@
       "fileName": "pharmacist_lite.exe"
     },
     "mobile": {
-      "version": 1,
-      "notes": "تحديث تلقائي للاسعار",
-      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist_lite-mobile-v1/pharmacist.lite.apk",
+      "version": 2,
+      "notes": "",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist_lite-mobile-v2/pharmacist.lite.apk",
       "fileName": "pharmacist lite.apk"
     }
   },
