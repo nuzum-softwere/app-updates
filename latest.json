@@ -1,9 +1,9 @@
 {
   "pharmacist": {
     "windows": {
-      "version": 2,
+      "version": 3,
       "notes": "",
-      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist-windows-v2/pharmacist.exe",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist-windows-v3/pharmacist.exe",
       "fileName": "pharmacist.exe"
     },
     "mobile": {
