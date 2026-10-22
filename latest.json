@@ -43,10 +43,11 @@
   },
   "agromaster": {
     "windows": {
-      "version": 1,
-      "notes": "agromaster v1.0",
-      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/agromaster-windows-v1/agromaster.exe",
-      "fileName": "agromaster.exe"
+      "version": 2,
+      "notes": "",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/agromaster-windows-v2/agromaster.exe",
+      "fileName": "agromaster.exe",
+      "sha256": "dbae038085d840c3931f104e67d6c17f96f39c898e858e2dd59ddb5e6be9347b"
     },
     "mobile": {
       "version": 2,
