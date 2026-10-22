@@ -17,10 +17,11 @@
   },
   "pharmacist_lite": {
     "windows": {
-      "version": 7,
+      "version": 8,
       "notes": "",
-      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist_lite-windows-v7/pharmacist_lite.exe",
-      "fileName": "pharmacist_lite.exe"
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist_lite-windows-v8/pharmacist_lite.exe",
+      "fileName": "pharmacist_lite.exe",
+      "sha256": "d02c76cb7cccf3cffbd91b752c2f076c52429fd241085a6142241bc80b3bb674"
     },
     "mobile": {
       "version": 3,
