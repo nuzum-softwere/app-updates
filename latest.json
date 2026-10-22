@@ -23,10 +23,11 @@
       "fileName": "pharmacist_lite.exe"
     },
     "mobile": {
-      "version": 2,
+      "version": 3,
       "notes": "",
-      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist_lite-mobile-v2/pharmacist.lite.apk",
-      "fileName": "pharmacist lite.apk"
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist_lite-mobile-v3/pharmacist.lite.apk",
+      "fileName": "pharmacist lite.apk",
+      "sha256": "bf0c0805651692f60737b8497ad45fd84666ddbb1f8f6ff2430ac7daefb54e07"
     }
   },
   "electronics": {
