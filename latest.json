@@ -1,10 +1,11 @@
 {
   "pharmacist": {
     "windows": {
-      "version": 3,
+      "version": 4,
       "notes": "",
-      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist-windows-v3/pharmacist.exe",
-      "fileName": "pharmacist.exe"
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist-windows-v4/pharmacist.exe",
+      "fileName": "pharmacist.exe",
+      "sha256": "21a98e00c60c6f42a6263b44d6c25057f1f49f720da5497f823b7fa3cd70a793"
     },
     "mobile": {
       "version": 3,
