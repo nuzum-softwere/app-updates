@@ -8,10 +8,11 @@
       "sha256": "21a98e00c60c6f42a6263b44d6c25057f1f49f720da5497f823b7fa3cd70a793"
     },
     "mobile": {
-      "version": 3,
+      "version": 4,
       "notes": "",
-      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist-mobile-v3/pharmacist.apk",
-      "fileName": "pharmacist.apk"
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist-mobile-v4/pharmacist.apk",
+      "fileName": "pharmacist.apk",
+      "sha256": "b18e97865ae4d210f0523968683be7a0b0f9ec88bb9196980f6bc327990c4f90"
     }
   },
   "pharmacist_lite": {
