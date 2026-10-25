@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-25T11:33:26.245510Z",
+  "updatedAt": "2026-10-25T12:56:48.739966Z",
   "mediaBase": "https://raw.githubusercontent.com/nuzum-softwere/app-updates/main/",
   "contact": {
     "brand": "nuzum",
@@ -80,7 +80,6 @@
     {
       "key": "m_and_a",
       "enabled": true,
-      "featured": true,
       "order": 20,
       "name": "M&A",
       "nameAr": "إم آند إيه",
@@ -97,7 +96,6 @@
     {
       "key": "rauvan",
       "enabled": true,
-      "featured": true,
       "order": 30,
       "name": "Rauvan",
       "nameAr": "روفان",
@@ -114,7 +112,6 @@
     {
       "key": "amr_sheref_group",
       "enabled": true,
-      "featured": true,
       "order": 40,
       "name": "AMR Sherif Group",
       "nameAr": "عمرو شريف جروب",
@@ -131,7 +128,6 @@
     {
       "key": "pharmacist",
       "enabled": true,
-      "featured": true,
       "order": 50,
       "name": "Pharmacist",
       "nameAr": "صيدلي",
@@ -149,7 +145,6 @@
     {
       "key": "pharmacist_lite",
       "enabled": true,
-      "featured": true,
       "order": 60,
       "name": "Pharmacist Lite",
       "nameAr": "صيدلي لايت",
@@ -167,7 +162,6 @@
     {
       "key": "agromaster",
       "enabled": true,
-      "featured": true,
       "order": 70,
       "name": "AgroMaster",
       "nameAr": "أجرو ماستر",
@@ -185,7 +179,6 @@
     {
       "key": "contractor",
       "enabled": true,
-      "featured": true,
       "order": 80,
       "name": "Contracting System",
       "nameAr": "نظام إدارة المقاولات",
@@ -203,7 +196,6 @@
     {
       "key": "electrofy",
       "enabled": true,
-      "featured": true,
       "order": 90,
       "name": "Electrofy",
       "nameAr": "إليكتروفاي",
@@ -221,7 +213,6 @@
     {
       "key": "dabchem",
       "enabled": true,
-      "featured": true,
       "order": 100,
       "name": "Dabchem",
       "nameAr": "دابكم",
@@ -246,7 +237,6 @@
     {
       "key": "electronics",
       "enabled": true,
-      "featured": true,
       "order": 100,
       "name": "Electronics",
       "nameAr": "إلكترونيك ستور",
@@ -264,7 +254,6 @@
     {
       "key": "my_store",
       "enabled": true,
-      "featured": true,
       "order": 110,
       "name": "my_store",
       "nameAr": "مصنعي",
@@ -281,7 +270,6 @@
     {
       "key": "printify",
       "enabled": true,
-      "featured": true,
       "order": 120,
       "name": "Printify",
       "nameAr": "برينتي فاي",
@@ -296,5 +284,8 @@
       "repo": "https://github.com/aabhady/printify",
       "icon": "assets/img/apps/printify.png"
     }
-  ]
+  ],
+  "images": {
+    "logo": "media/site/logo.png"
+  }
 }
