@@ -77,10 +77,11 @@
   },
   "pharmactive": {
     "mobile": {
-      "version": 1,
+      "version": 2,
       "notes": "",
-      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmactive-mobile-v1/pharmactive.apk",
-      "fileName": "pharmactive.apk"
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmactive-mobile-v2/pharmactive.apk",
+      "fileName": "pharmactive.apk",
+      "sha256": "1c3890b779537260d4bd4b90f3e3bc69e7b402d2e0d1e65c0700153d91051fa0"
     },
     "windows": {
       "version": 1,
