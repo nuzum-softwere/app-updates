@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-25T13:33:45.359526Z",
+  "updatedAt": "2026-10-26T08:22:50.723374Z",
   "mediaBase": "https://raw.githubusercontent.com/nuzum-softwere/app-updates/main/",
   "contact": {
     "brand": "nuzum",
@@ -286,6 +286,5 @@
     }
   ],
   "images": {
-    "logo": "media/site/logo.png"
   }
 }
