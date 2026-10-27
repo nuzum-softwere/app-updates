@@ -84,11 +84,11 @@
       "sha256": "1c3890b779537260d4bd4b90f3e3bc69e7b402d2e0d1e65c0700153d91051fa0"
     },
     "windows": {
-      "version": 1,
+      "version": 2,
       "notes": "",
-      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmactive-windows-v1/pharmactive.exe",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmactive-windows-v2/pharmactive.exe",
       "fileName": "pharmactive.exe",
-      "sha256": "e44b057210a4848ff2e82c256d49c4a43f64110bab2ba82a28251c59d138b8ee"
+      "sha256": "d8a5ce17d6b0ca2b3f3e5c1e19c3d129766a0ab4a495ed8efc88a426d2253d22"
     }
   }
 }
