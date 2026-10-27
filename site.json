@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-26T08:22:50.723374Z",
+  "updatedAt": "2026-10-27T19:37:07.636319Z",
   "mediaBase": "https://raw.githubusercontent.com/nuzum-softwere/app-updates/main/",
   "contact": {
     "brand": "nuzum",
@@ -224,12 +224,12 @@
         "windows",
         "mobile"
       ],
-      "icon": "assets/img/apps/dabchem.png",
+      "icon": "media/dabchem/icon.png",
       "details": {
         "features": [],
         "screenshots": [
           {
-            "path": "media/dabchem/DabChem_ERP_1.png"
+            "path": "media/dabchem/Dabchem_ERP_Dashboard_in_a_Futuristic_Office.png"
           }
         ]
       }
@@ -284,7 +284,5 @@
       "repo": "https://github.com/aabhady/printify",
       "icon": "assets/img/apps/printify.png"
     }
-  ],
-  "images": {
-  }
+  ]
 }
