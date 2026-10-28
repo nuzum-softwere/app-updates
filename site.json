@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-28T10:44:16.141143Z",
+  "updatedAt": "2026-10-28T11:19:23.910604Z",
   "mediaBase": "https://raw.githubusercontent.com/nuzum-softwere/app-updates/main/",
   "contact": {
     "brand": "nuzum",
@@ -199,7 +199,7 @@
     },
     {
       "key": "amr_sheref_group",
-      "enabled": true,
+      "enabled": false,
       "order": 40,
       "name": "AMR Sherif Group",
       "nameAr": "عمرو شريف جروب",
