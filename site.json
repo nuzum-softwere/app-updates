@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-28T14:00:41.348863Z",
+  "updatedAt": "2026-10-30T09:34:28.120515Z",
   "mediaBase": "https://raw.githubusercontent.com/nuzum-softwere/app-updates/main/",
   "contact": {
     "brand": "nuzum",
@@ -414,6 +414,23 @@
       ],
       "repo": "https://github.com/aabhady/electronics",
       "icon": "assets/img/apps/electronics.png"
+    },
+    {
+      "key": "martix",
+      "enabled": true,
+      "order": 100,
+      "name": "MARTIX",
+      "nameAr": "مارتكس",
+      "taglineAr": "نظام نقاط البيع وإدارة المبيعات: الفواتير، المخزون، العملاء، الموردون، التقسيط، الخزنة والتقارير.",
+      "descAr": "نظام نقاط البيع وإدارة المبيعات: الفواتير، المخزون، العملاء، الموردون، التقسيط، الخزنة والتقارير.",
+      "category": "shop",
+      "public": true,
+      "platforms": [
+        "windows",
+        "mobile"
+      ],
+      "repo": "https://github.com/aabhady/MARTIX",
+      "icon": "assets/img/apps/martix.png"
     },
     {
       "key": "my_store",
