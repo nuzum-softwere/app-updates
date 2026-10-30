@@ -98,6 +98,13 @@
       "url": "https://github.com/nuzum-softwere/app-updates/releases/download/martix-mobile-v1/MARTIX.apk",
       "fileName": "MARTIX.apk",
       "sha256": "e8c287684b4e63bdb77b1597c162953212cfb9267f0fe8326f9db4e5b97cdaea"
+    },
+    "windows": {
+      "version": 1,
+      "notes": "",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/martix-windows-v1/MARTIX.exe",
+      "fileName": "MARTIX.exe",
+      "sha256": "795f632291bc57112a9596a2b1b800c6917d847cb6855c03aefe6a1d24ac2cb5"
     }
   }
 }
