@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-30T09:34:28.120515Z",
+  "updatedAt": "2026-10-30T11:09:07.001907Z",
   "mediaBase": "https://raw.githubusercontent.com/nuzum-softwere/app-updates/main/",
   "contact": {
     "brand": "nuzum",
@@ -430,7 +430,7 @@
         "mobile"
       ],
       "repo": "https://github.com/aabhady/MARTIX",
-      "icon": "assets/img/apps/martix.png"
+      "icon": "media/martix/icon.png"
     },
     {
       "key": "my_store",
