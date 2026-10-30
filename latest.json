@@ -90,5 +90,14 @@
       "fileName": "pharmactive.exe",
       "sha256": "d0ed8f97f09740fee29adba013a9ac0f39046b3f2e9b19fd76115a8514cff7e9"
     }
+  },
+  "martix": {
+    "mobile": {
+      "version": 1,
+      "notes": "",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/martix-mobile-v1/MARTIX.apk",
+      "fileName": "MARTIX.apk",
+      "sha256": "e8c287684b4e63bdb77b1597c162953212cfb9267f0fe8326f9db4e5b97cdaea"
+    }
   }
 }
