@@ -100,11 +100,11 @@
       "sha256": "411195dad78157a86626cbd44b3d5f01bc58d4eeb9f4439c7309e8f1ed763f7f"
     },
     "windows": {
-      "version": 1,
+      "version": 2,
       "notes": "",
-      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/martix-windows-v1/MARTIX.exe",
-      "fileName": "MARTIX.exe",
-      "sha256": "795f632291bc57112a9596a2b1b800c6917d847cb6855c03aefe6a1d24ac2cb5"
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/martix-windows-v2/martix.exe",
+      "fileName": "martix.exe",
+      "sha256": "904d3a36e2f5723b5a411d6cdb4e7cc34d2e92bf3ee8da03d0c0215e5d6f9e93"
     }
   },
   "maktabty": {
