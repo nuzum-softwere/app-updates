@@ -93,11 +93,11 @@
   },
   "martix": {
     "mobile": {
-      "version": 1,
+      "version": 2,
       "notes": "",
-      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/martix-mobile-v1/MARTIX.apk",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/martix-mobile-v2/MARTIX.apk",
       "fileName": "MARTIX.apk",
-      "sha256": "e8c287684b4e63bdb77b1597c162953212cfb9267f0fe8326f9db4e5b97cdaea"
+      "sha256": "411195dad78157a86626cbd44b3d5f01bc58d4eeb9f4439c7309e8f1ed763f7f"
     },
     "windows": {
       "version": 1,
