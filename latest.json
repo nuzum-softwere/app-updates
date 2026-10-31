@@ -114,6 +114,13 @@
       "url": "https://github.com/nuzum-softwere/app-updates/releases/download/maktabty-mobile-v1/default.apk",
       "fileName": "مكتبتي.apk",
       "sha256": "1201e07489ec59607ab928f7f352c3965682c92560d0865eb788ea2c126dfe60"
+    },
+    "windows": {
+      "version": 1,
+      "notes": "",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/maktabty-windows-v1/default.exe",
+      "fileName": "مكتبتي.exe",
+      "sha256": "ccf69ab0a5d9d243a1fb32b427ebaa516996d3a4ebc4cb31b8c2601e78ab72fc"
     }
   }
 }
