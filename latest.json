@@ -106,5 +106,14 @@
       "fileName": "MARTIX.exe",
       "sha256": "795f632291bc57112a9596a2b1b800c6917d847cb6855c03aefe6a1d24ac2cb5"
     }
+  },
+  "maktabty": {
+    "mobile": {
+      "version": 1,
+      "notes": "",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/maktabty-mobile-v1/default.apk",
+      "fileName": "مكتبتي.apk",
+      "sha256": "1201e07489ec59607ab928f7f352c3965682c92560d0865eb788ea2c126dfe60"
+    }
   }
 }
