@@ -17,18 +17,18 @@
   },
   "pharmacist_lite": {
     "windows": {
-      "version": 8,
+      "version": 9,
       "notes": "",
-      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist_lite-windows-v8/pharmacist_lite.exe",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist_lite-windows-v9/pharmacist_lite.exe",
       "fileName": "pharmacist_lite.exe",
-      "sha256": "d02c76cb7cccf3cffbd91b752c2f076c52429fd241085a6142241bc80b3bb674"
+      "sha256": "e0b3b8e16e78fc6ba3a923be614d347e2e445cb17f10c4ed278cd2925293dc0d"
     },
     "mobile": {
-      "version": 4,
+      "version": 3,
       "notes": "",
-      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist_lite-mobile-v4/pharmacist.lite.apk",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist_lite-mobile-v3/pharmacist.lite.apk",
       "fileName": "pharmacist lite.apk",
-      "sha256": "dc740e014405863bf1cb57b14e1ea0f16e39d02dffd074a70f527450ca4fb756"
+      "sha256": "bf0c0805651692f60737b8497ad45fd84666ddbb1f8f6ff2430ac7daefb54e07"
     }
   },
   "electronics": {
