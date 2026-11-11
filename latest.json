@@ -1,11 +1,11 @@
 {
   "pharmacist": {
     "windows": {
-      "version": 5,
+      "version": 6,
       "notes": "",
-      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist-windows-v5/pharmacist.exe",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/pharmacist-windows-v6/pharmacist.exe",
       "fileName": "pharmacist.exe",
-      "sha256": "5593ef3392eef36e4b3f5d8f2e60892c0c9211caa697cbd12a3475e03b7f80e1"
+      "sha256": "9cd73ecf30124ab6d0aa96ee5df9489b425330a2e7b631bf9864153c7165d0c4"
     },
     "mobile": {
       "version": 4,
