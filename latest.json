@@ -54,11 +54,11 @@
       "sha256": "0d5ff20f6e2c9926824713be18a7e4425d27877d5e71688c0d3cbf78545d03ee"
     },
     "mobile": {
-      "version": 3,
+      "version": 4,
       "notes": "",
-      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/agromaster-mobile-v3/agromaster.apk",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/agromaster-mobile-v4/agromaster.apk",
       "fileName": "agromaster.apk",
-      "sha256": "0d4d91dbc85c0ea2277db92216b56f16b882640d9d397fba86f3371792939da2"
+      "sha256": "8b59b67916a2e64e8d77ce678c7e1194efb6e239ad21e3701786a52340de46ff"
     }
   },
   "phonix": {
