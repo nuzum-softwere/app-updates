@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-27T13:30:00.000000Z",
+  "updatedAt": "2026-11-27T16:20:43.000000Z",
   "mediaBase": "https://raw.githubusercontent.com/nuzum-softwere/app-updates/main/",
   "contact": {
     "brand": "nuzum",
@@ -554,7 +554,32 @@
             "body": "جرّب البرنامج 7 أيام كاملة، ثم فعّله بمفتاح مرتبط بجهازك. كل البيانات محفوظة محلياً، فتبيع وتطبع وتقرأ التقارير حتى لو انقطع الإنترنت — على ويندوز وأندرويد."
           }
         ],
-        "screenshots": []
+        "screenshots": [
+          {
+            "path": "media/phonix/01-home.png"
+          },
+          {
+            "path": "media/phonix/02-inv_list.png"
+          },
+          {
+            "path": "media/phonix/03-installments.png"
+          },
+          {
+            "path": "media/phonix/04-sales.png"
+          },
+          {
+            "path": "media/phonix/05-treasury.png"
+          },
+          {
+            "path": "media/phonix/06-customers.png"
+          },
+          {
+            "path": "media/phonix/07-purchase.png"
+          },
+          {
+            "path": "media/phonix/08-invrep.png"
+          }
+        ]
       }
     },
     {
@@ -677,7 +702,8 @@
           {
             "path": "media/electronics/sales.png"
           }
-        ]
+        ],
+        "hideReleaseNotes": true
       }
     },
     {
@@ -732,25 +758,22 @@
         ],
         "screenshots": [
           {
-            "path": "media/aksaty/01-customers.png"
+            "path": "media/aksaty/d01-splash.png"
           },
           {
-            "path": "media/aksaty/02-invoice.png"
+            "path": "media/aksaty/d02-customers.png"
           },
           {
-            "path": "media/aksaty/03-inventory.png"
+            "path": "media/aksaty/d03-invoices.png"
           },
           {
-            "path": "media/aksaty/04-suppliers.png"
+            "path": "media/aksaty/d04-invoice-details.png"
           },
           {
-            "path": "media/aksaty/05-statement.png"
+            "path": "media/aksaty/d05-overdue.png"
           },
           {
-            "path": "media/aksaty/06-receipt.png"
-          },
-          {
-            "path": "media/aksaty/07-about.png"
+            "path": "media/aksaty/d06-inventory.png"
           }
         ]
       }
