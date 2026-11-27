@@ -122,5 +122,14 @@
       "fileName": "مكتبتي.exe",
       "sha256": "ccf69ab0a5d9d243a1fb32b427ebaa516996d3a4ebc4cb31b8c2601e78ab72fc"
     }
+  },
+  "aksaty": {
+    "windows": {
+      "version": 1,
+      "notes": "",
+      "url": "https://github.com/nuzum-softwere/app-updates/releases/download/aksaty-windows-v1/default.exe",
+      "fileName": "اقساطي.exe",
+      "sha256": "84ee520b5eb6affd3c76326a0e9cfaa1e5ab70210a2753105c3408e91939ae7e"
+    }
   }
 }
